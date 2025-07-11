@@ -3,10 +3,10 @@
   "name": "My Minimap",
   "version": "0.1.0",
   "description": "A minimap to help players understand their location.",
-  "author": "Your Name",
- "action": {
-  "title": "Minimap",
-  "icon": "./icon.svg",
-  "popover": "./index.html"
-}
+  "author": "crazytheman123",
+  "action": {
+    "title": "Minimap",
+    "icon": "./icon.svg",
+    "popover": "./index.html"
+  }
 }
