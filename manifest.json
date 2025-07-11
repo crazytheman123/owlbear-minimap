@@ -6,7 +6,7 @@
   "author": "crazytheman123",
   "action": {
     "title": "Minimap",
-    "icon": "./icon.svg",
-    "popover": "./index.html"
+    "icon": "icon.svg",
+    "popover": "index.html"
   }
 }
