@@ -4,9 +4,10 @@
   "version": "0.1.0",
   "description": "A minimap to help players understand their location.",
   "author": "Your Name",
-  "action": {
-    "title": "Minimap",
-    "icon": "/icon.svg",
-    "popover": "/index.html"
-  }
+ "action": {
+  "title": "Minimap",
+  "icon": "icon.svg",
+  "popover": "index.html"
+}
+```4.  Save the `manifest.json` file (**File > Save** or **Ctrl+S**).
 }
